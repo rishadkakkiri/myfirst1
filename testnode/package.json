@@ -1,0 +1,19 @@
+{
+  "name": "testnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "test"
+  ],
+  "author": "fansad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
